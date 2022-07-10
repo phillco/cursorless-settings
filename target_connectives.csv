@@ -2,7 +2,7 @@ Spoken form, Cursorless identifier
 -, rangeExcludingStart
 and, listConnective
 between, rangeExclusive
-through, rangeInclusive
+through|past, rangeInclusive
 to, sourceDestinationConnective
 until, rangeExcludingEnd
 with, swapConnective
