@@ -29,7 +29,7 @@ tags, xmlBothTags
 token, token
 type, type
 value, value
-word, word
+word|words, word
 
 # 2022-02-12 12:30:16 - New entries automatically added by cursorless
 condition, condition
