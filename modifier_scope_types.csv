@@ -51,3 +51,6 @@ selector, selector
 # 2022-07-07 15:10:10 - New entries automatically added by cursorless
 callee, functionCallee
 short paint, boundedNonWhitespaceSequence
+
+# 2022-08-09 09:00:49 - New entries automatically added by cursorless
+command, command
