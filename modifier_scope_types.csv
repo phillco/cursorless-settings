@@ -54,3 +54,13 @@ short paint, boundedNonWhitespaceSequence
 
 # 2022-08-09 09:00:49 - New entries automatically added by cursorless
 command, command
+
+
+# 2022-08-27 09:08:45 - New entries automatically added by cursorless
+chapter, chapter
+environment, environment
+paragraph, namedParagraph
+part, part
+subparagraph, subParagraph
+subsection, subSection
+subsubsection, subSubSection
