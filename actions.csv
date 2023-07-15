@@ -34,8 +34,8 @@ quick fix, showQuickFix
 reference, showReferences
 rename, rename
 reverse, reverseTargets
-scout, findInDocument
-scout all, findInWorkspace
+cursorless scout, findInDocument
+cursorless scout all, findInWorkspace
 sort, sortTargets
 swap, swapTargets
 take, setSelection
