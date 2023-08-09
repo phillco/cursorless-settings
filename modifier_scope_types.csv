@@ -53,7 +53,7 @@ callee, functionCallee
 short paint, boundedNonWhitespaceSequence
 
 # 2022-08-09 09:00:49 - New entries automatically added by cursorless
-# command, command
+#command, command
 
 
 # 2022-08-27 09:08:45 - New entries automatically added by cursorless
@@ -65,5 +65,10 @@ subparagraph, subParagraph
 subsection, subSection
 subsubsection, subSubSection
 
-# 2023-05-14 14:37:03 - New entries automatically added by cursorless
-command, command
+
+# 2023-07-22 07:41:07 - New entries automatically added by cursorless
+branch, branch
+identifier, identifier
+instance, instance
+sentence, sentence
+unit, unit
